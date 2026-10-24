@@ -1,0 +1,24 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: #f5f6fa;
+}
+
+.form-card .card-header {
+    border-bottom: 2px solid #6495ed;
+}
+
+.signo-card {
+    background: linear-gradient(180deg, #8e86aa 0%, #26247a 100%);
+    border-radius: 0.75rem;
+}
+
+.signo-nome {
+    letter-spacing: 0.3em;
+    font-weight: 300;
+}
+
+.signo-descricao {
+    letter-spacing: 0.05em;
+}
